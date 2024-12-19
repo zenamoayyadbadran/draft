@@ -4,6 +4,9 @@
     font-family: "Lato", sans-serif;
    
   }
+  h2 {
+    font-family: "Josefin Sans", sans-serif;
+  }
 
 :root{
   --mainColor:#FB2E86;
@@ -11,8 +14,23 @@
   --backColor:#EEEFFB;
   --emailaddressColor:#FFFFFF;
   --footertextColor:#8A8FB9;
-
-
+  --searchColor :#E7E6EF;
+  --cardFirstColor:#05E6B7;
+  --cardSecondColor:#F701A8;
+  --cardThirdColor:#00009D;
+  --cardbackColor:#F6F7FB;
+  --spansColor:#151875;
+  --titleColors:#1A0B5B;
+  --sofabackgroundColor:#F7F7F7;
+  --deletedColor:#FB2448;
+  --backmainColor:#F1F0FF;
+  --redcircleColor:#F52B70;
+  --bluecircleColor:#2B2BF5;
+  --greencircleColor:#2BF5CC;
+  --coloredlistcolor:#ACABC3;
+  --backtrendingColor:#F5F6F8;
+  --pragraphColor:#B7BACB;
+  --buttonColor:#08D15F;
 }
   .container {
     width: calc(100% - 600px);
